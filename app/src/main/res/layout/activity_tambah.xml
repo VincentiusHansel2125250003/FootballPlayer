@@ -30,7 +30,7 @@
         android:id="@+id/et_nomor"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Momor Punggung"
+        android:hint="Nomor Punggung"
         android:textSize="21sp"
         />
 
